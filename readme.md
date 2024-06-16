@@ -3,12 +3,12 @@
 - Login to start the chat
 - User can start a new chat with anyone inside this app
 
+  ![App Screenshot](https://raw.githubusercontent.com/boytrend0108/chat-pern/master/images/node%20chat.png)
+
 ## Tech Stack
 
 - Front-end: REACT, REDUX, AXIOS, WEBSOCKET, SCSS, BULMA, BOOTSTRAP.
 - Back-end: nodejs, postgres, sequilize.
-
-![App Screenshot](https://raw.githubusercontent.com/boytrend0108/chat-pern/master/images/node%20chat.png)
 
 ### Getting Started
 
