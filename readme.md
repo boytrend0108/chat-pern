@@ -8,7 +8,7 @@
 - Front-end: REACT, REDUX, AXIOS, WEBSOCKET, SCSS, BULMA, BOOTSTRAP.
 - Back-end: nodejs, postgres, sequilize.
 
-![App Screenshot](https://raw.githubusercontent.com/boytrend0108/delegat/master/public/delegat-home.png)
+![App Screenshot](https://raw.githubusercontent.com/boytrend0108/chat-pern/master/images/node%20chat.png)
 
 ### Getting Started
 
