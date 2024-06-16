@@ -1,4 +1,4 @@
-# Chat implementation (like telegram)
+# Chat implementation
 
 - Login to start the chat
 - User can start a new chat with anyone inside this app
@@ -14,11 +14,11 @@
 
 First of all create postgres data base with this params:
 
-DB_HOST=localhost
-DB_USER=postgres
-DB_PASSWORD=0105
-DB_DATABASE=node_chat
-DB_DIALECT=postgres
+-DB_HOST=localhost
+-DB_USER=postgres
+-DB_PASSWORD=0105
+-DB_DATABASE=node_chat
+-DB_DIALECT=postgres
 
 1.Clone the repository:
 
