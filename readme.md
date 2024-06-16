@@ -1,10 +1,62 @@
-# Chat (with Node.js) 
-Implement a chat application (both client and server)
+# Chat implementation (like telegram)
 
-- You type a username and send it to the server
-- It is now username (save it in localStorage)
-- All the messages should have an author, time and text
-- Implement an ability to create rooms (create / rename / join / delete)
-- New user should see all prev messages in the room
+- Login to start the chat
+- User can start a new chat with anyone inside this app
 
-**Read [the guideline](https://github.com/mate-academy/js_task-guideline/blob/master/README.md) before start**
+## Tech Stack
+
+- Front-end: REACT, REDUX, AXIOS, WEBSOCKET, SCSS, BULMA, BOOTSTRAP.
+- Back-end: nodejs, postgres, sequilize.
+
+![App Screenshot](https://raw.githubusercontent.com/boytrend0108/delegat/master/public/delegat-home.png)
+
+### Getting Started
+
+First of all create postgres data base with this params:
+
+DB_HOST=localhost
+DB_USER=postgres
+DB_PASSWORD=0105
+DB_DATABASE=node_chat
+DB_DIALECT=postgres
+
+1.Clone the repository:
+
+```bash
+  https://github.com/boytrend0108/chat-pern.git
+```
+
+2.Install the required dependencies:
+
+```bash
+  git branch master
+  npm install
+```
+
+3.Start the development server:
+
+```bash
+  npm start
+```
+
+4.Start the development client:
+
+```bash
+  npm run dev
+```
+
+4.Open `http://localhost:5173` in your browser.
+
+### Contributing
+
+Pull requests are welcome.Please follow the coding style and conventions used in the project.
+
+### License
+
+This project is licensed under the MIT License.
+
+## Authors
+
+- [boytrend](https://github.com/boytrend0108)
+
+## Happy coding!
